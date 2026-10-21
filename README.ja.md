@@ -8,7 +8,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats-wheat-psi.vercel.app?user=tyler36&theme=dark&exclude_days=Sun%2CSat&locale=ja)](https://git.io/streak-stats)
 
-<!-- [![Tyler36's GitHub stats](https://github-readme-stats.vercel.app/api?username=tyler36&theme=dark&show_icons=true&rank_icon=percentile&count_private=true&show=prs_merged,prs_merged_percentage)](https://github-readme-stats.vercel.app/api?username=tyler36&show_icons=true&rank_icon=percentile&count_private=true&show=prs_merged,prs_merged_percentage) -->
+[![Tyler36's GitHub stats](https://github-readme-stats.vercel.app/api?username=tyler36&theme=dark&show_icons=true&rank_icon=percentile&count_private=true&show=prs_merged,prs_merged_percentage&locale=ja)](https://github-readme-stats.vercel.app/api?username=tyler36&show_icons=true&rank_icon=percentile&count_private=true&show=prs_merged,prs_merged_percentage&locale=ja)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tyler36&theme=dark&layout=compact)](https://github.com/tyler36/github-readme-stats) -->
 
