@@ -10,7 +10,7 @@
 
 <!-- [![Tyler36's GitHub stats](https://github-readme-stats.vercel.app/api?username=tyler36&theme=dark&show_icons=true&rank_icon=percentile&count_private=true&show=prs_merged,prs_merged_percentage)](https://github-readme-stats.vercel.app/api?username=tyler36&show_icons=true&rank_icon=percentile&count_private=true&show=prs_merged,prs_merged_percentage) -->
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tyler36&theme=dark&layout=compact)](https://github.com/tyler36/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tyler36&theme=dark&layout=compact&locale=ja)](https://github.com/tyler36/github-readme-stats)
 
 ## 技術スタック
 
